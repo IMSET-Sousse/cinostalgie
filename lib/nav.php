@@ -1,0 +1,1 @@
+<?php include_once('lib\auth-rq.php'); ?>
